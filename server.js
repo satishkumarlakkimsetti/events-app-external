@@ -7,7 +7,7 @@ const SERVER = process.env.SERVER ? process.env.SERVER : "http://localhost:8082"
 // express is a nodejs web server
 // https://www.npmjs.com/package/express
 const express = require('express');
-
+//test comment
 // converts content in the request into parameter req.body
 // https://www.npmjs.com/package/body-parser
 const bodyParser = require('body-parser');
